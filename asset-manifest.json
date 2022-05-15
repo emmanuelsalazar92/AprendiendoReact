@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AprendiendoReact/static/css/main.073c9b0a.css",
+    "main.js": "/AprendiendoReact/static/js/main.5f4debc3.js",
+    "static/js/787.913688c6.chunk.js": "/AprendiendoReact/static/js/787.913688c6.chunk.js",
+    "static/media/logo.svg": "/AprendiendoReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AprendiendoReact/index.html",
+    "main.073c9b0a.css.map": "/AprendiendoReact/static/css/main.073c9b0a.css.map",
+    "main.5f4debc3.js.map": "/AprendiendoReact/static/js/main.5f4debc3.js.map",
+    "787.913688c6.chunk.js.map": "/AprendiendoReact/static/js/787.913688c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f4debc3.js"
+  ]
+}
