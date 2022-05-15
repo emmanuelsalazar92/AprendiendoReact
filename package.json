@@ -1,6 +1,6 @@
 {
   "name": "01-primeros-pasos",
-  "homepage":"https://emmanuelsalazar92.github.io/AprendiendoReact",
+  "homepage": "https://emmanuelsalazar92.github.io/AprendiendoReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +11,11 @@
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run predeploy"
+    }
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -39,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "husky": "^8.0.1"
   }
 }
