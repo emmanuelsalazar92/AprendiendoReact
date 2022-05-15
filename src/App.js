@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Esta es una prueba de como voy a probar React
+          Autodeploy prueba 1
         </p>
         <a
           className="App-link"
